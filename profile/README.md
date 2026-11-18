@@ -5,8 +5,9 @@
 ### تطبيقات هادئة تحترم خصوصيتك
 ### Calm, privacy-first apps
 
-**تطبيقات للأسرة المسلمة والإنتاجية — بلا إعلانات مزعجة، بلا تتبّع، بتصميم هادئ مريح للعين.**
-**Apps for Muslim families and productivity — no intrusive ads, no tracking, calm by design.**
+<p dir="rtl"><b>تطبيقات للأسرة المسلمة والإنتاجية — بلا إعلانات مزعجة، بلا تتبّع، بتصميم هادئ مريح للعين.</b></p>
+
+<p dir="ltr"><b>Apps for Muslim families and productivity — no intrusive ads, no tracking, calm by design.</b></p>
 
 [🌐 heqwerdk.com](https://heqwerdk.com) • [✉️ info@heqwerdk.com](mailto:info@heqwerdk.com)
 
@@ -24,6 +25,7 @@
 | <img src="assets/kidsstory.png" width="36" /> | **HEQ KidsStory** | حكايات نوم هادئة للأطفال (3–8): سير الصحابة الصغار بمصادر موثّقة، بودكاست صوتي، ألعاب تفاعلية، وقصص يصنعها الوالدان — بخمس لغات.<br/>Calm bedtime stories for kids: the young Companions with sources, audio podcast, games, and parent-made stories — in 5 languages. |
 
 > صفحات التحميل والسياسات لكل تطبيق ستُنشر هنا قريباً.
+>
 > Download pages and policies for each app are coming here soon.
 
 ---

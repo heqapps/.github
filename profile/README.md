@@ -22,11 +22,13 @@
 | <img src="assets/werdk.png" width="56" /> | **HEQ Werdk** | منظومة إسلامية متكاملة للورد القرآني: المصحف الشريف بالرسم العثماني (604 صفحة)، مواقيت الصلاة، إذاعات القرآن، وتلاوات آية بآية لأكثر من 80 قارئاً، مع بوابة مطورين مفتوحة.<br/>A complete Quran companion: the Uthmani Mushaf (604 pages), prayer times, Quran radio, verse-by-verse recitations from 80+ reciters, and an open developer portal.<br/>🌐 [heqwerdk.com](https://heqwerdk.com) |
 | <img src="assets/link.png" width="56" /> | **HEQ Link** | منصتك المستقلة، والدردشة المباشرة، والرفيق الذكي «هجين».<br/>Your independent platform, live chat, and Hajeen — your smart companion.<br/>▶️ [Google Play](https://play.google.com/store/apps/details?id=com.hothaifahajen.app) |
 | <img src="assets/run.png" width="56" /> | **HEQ Run** | «هجين» يصنع فيديوهاتك ومواقعك على جهازك: احكِ فكرتك بلهجتك، ويبني لك فيديو عمودياً جاهزاً للنشر أو موقعاً كاملاً.<br/>Hajeen makes your videos and websites on your own computer — describe your idea, get a ready vertical video or a full site.<br/>💻 [Windows](https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop) • 🌐 [Website](https://heq-run-6hf7.onrender.com) |
-| <img src="assets/kidsstory.png" width="56" /> | **HEQ KidsStory** | حكايات نوم هادئة للأطفال (3–8): سير الصحابة الصغار بمصادر موثّقة، بودكاست صوتي، ألعاب تفاعلية، وقصص يصنعها الوالدان — بخمس لغات.<br/>Calm bedtime stories for kids: the young Companions with sources, audio podcast, games, and parent-made stories — in 5 languages.<br/>🌐 [heq-kidsstory.netlify.app](https://heq-kidsstory.netlify.app) |
+| <img src="assets/kidsstory.png" width="56" /> | **HEQ KidsStory** | حكايات نوم هادئة للأطفال (3–8): سير الصحابة الصغار بمصادر موثّقة، بودكاست صوتي، ألعاب تفاعلية، وقصص يصنعها الوالدان — بخمس لغات.<br/>Calm bedtime stories for kids: the young Companions with sources, audio podcast, games, and parent-made stories — in 5 languages.<br/>🌐 [heq-kidsstory.netlify.app](https://heq-kidsstory.netlify.app) • 📄 [المعلومات والسياسات • Info & policies](https://github.com/heqapps/heq-kidsstory) |
 
-> صفحات التحميل والسياسات لكل تطبيق ستُنشر هنا قريباً.
+> لكل تطبيق صفحة فيها الوصف، وسياسة الخصوصية، وشروط الاستخدام، وسجل التحديثات، وروابط التنزيل.
 >
-> Download pages and policies for each app are coming here soon.
+> Each app has a page with its description, privacy policy, terms, changelog and downloads.
+>
+> 📄 [HEQ KidsStory](https://github.com/heqapps/heq-kidsstory) • _HEQ Werdk, HEQ Link, HEQ Run — قريباً • coming soon_
 
 ---
 
